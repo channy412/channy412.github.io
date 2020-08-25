@@ -17,8 +17,9 @@ menu_settings:
       url: '/projects/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+#    - title: 'Contact'
+#      url: '/contact'
+
 
 grid_settings:
   grid_spacing: 10
@@ -72,7 +73,7 @@ color_settings:
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,600" rel="stylesheet">'
   title_font: '"Nunito", sans-serif'
-  body_font: '"Nunito", sans-serif'
+  body_font: 'Helvectica, "Nunito", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:

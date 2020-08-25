@@ -7,16 +7,19 @@ featured_image: /images/social.jpg
 
 ![](/images/demo/demo-landscape.jpg)
 
-<p align="justify">
 
-## Interests
+## Interests  
+I am using techniques from programming languages to make systems more secure.  
+Lately, I have been focusing on finding security bugs in software using symbolic execution and static analysis.  
+I am also interested in automatically repairing security vulnerabilities, and for this purpose, I am keen to program synthesis technologies.  
+I am also interested in security issues in deep learning, such as adversarial example and imitation attack.   
 
-
-Simples is packed with powerful features to showcase your content:
 
 * Beautiful, minimal design
 * Single column post layout
+<p align="justify">
 * Responsive – works perfectly on all devices
+</p>
 * Portfolio/projects post type to show your work
 * Blog with pagination
 * Sleek Ajax navigation and page transitions
