@@ -1,11 +1,13 @@
 ---
 title: About Chanhee Cho
 description: cksgml@snu.ac.kr
-subtitle: Simples is a super simple blogging theme for Jekyll.
+subtitle: cksgml@snu.ac.kr
 featured_image: /images/social.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
+
+<p align="justify">
 
 ## Interests
 
@@ -27,7 +29,21 @@ Simples is packed with powerful features to showcase your content:
 * Works with GitHub Pages
 * Updated and supported by the developers
 
-## Get Simples
+
+</p>
+
+## Projects
+
+
+
+## Teaching Assistant
+
+
+
+## Education
+
+
+
 
 Simples is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
