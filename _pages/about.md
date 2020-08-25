@@ -1,13 +1,14 @@
 ---
 title: About Chanhee Cho
-description: Simples is a super simple blogging theme for Jekyll.
+description: cksgml@snu.ac.kr
 subtitle: Simples is a super simple blogging theme for Jekyll.
 featured_image: /images/social.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Features
+## Interests
+
 
 Simples is packed with powerful features to showcase your content:
 
