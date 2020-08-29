@@ -72,7 +72,7 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,600" rel="stylesheet">'
-  title_font: '"Nunito", sans-serif'
+  title_font: 'Helvectica, "Nunito", sans-serif'
   body_font: 'Helvectica, "Nunito", sans-serif'
   regular_weight: 400
   bold_weight: 600
