@@ -5,7 +5,6 @@ subtitle: cksgml@snu.ac.kr
 featured_image: /images/social.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
 
 
 ## Interests  
@@ -26,6 +25,7 @@ Programming Language, Computer Security, Machine Learning
 ## Education
 
 
+![](/images/my_photo1.jpeg)
 
 <!--
 I am using techniques from programming languages to make systems more secure.  
