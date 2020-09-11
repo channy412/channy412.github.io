@@ -19,13 +19,23 @@ Programming Language, Computer Security, Machine Learning
 
 
 ## Teaching Assistant
+System Programming(Conducted in English), Seoul National University
+
 
 
 
 ## Education
+Seoul National University
+Feb. 2021
+• Bachelor of Science in Mathematical Sciences
+• Bachelor of Science in Computer Science and Engineering
 
 
+
+
+<!--
 ![](/images/my_photo1.jpeg)
+-->
 
 <!--
 I am using techniques from programming languages to make systems more secure.  
