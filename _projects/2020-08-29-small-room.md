@@ -3,7 +3,7 @@ title: 'The Gap Between Advertising and Reality'
 subtitle: 'Django server with a machine learning service'
 date: 2020-08-29 00:00:00
 featured_image: '/images/RCA-SHOW-01.png'
-excerpt: This page is a demo that shows everything you can do inside portfolio and blog posts. We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+excerpt: This work converts real-life room photos into commercial images and vice versa
 ---
 
 ![](/images/RCA-SHOW-01.png)
