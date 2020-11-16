@@ -10,7 +10,7 @@ featured_image: /images/social.jpg
 ## Interests  
 My research focus is on using techniques from programming languages to make systems more secure. Lately, I have been focusing on finding security bugs in softwares automatically. I am also interested in automatically repairing security vulnerabilities. I am also interested in data driven security and security issues in deep learning, such as adversarial example and imitation attack.   
 
-Programming Languages and Formal Methods, Computer Security, Machine Learning
+Programming Languages and Formal Methods, Computer Security
 
 
 <!--
