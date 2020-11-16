@@ -13,9 +13,9 @@ My research focus is on using techniques from programming languages to make syst
 Programming Languages and Formal Methods, Computer Security, Machine Learning
 
 
-
+<!--
 ## Projects
-
+-->
 
 
 ## Teaching Assistant
