@@ -23,7 +23,9 @@ My research focus is on using techniques from programming languages to make syst
 
 ## Teaching Assistant
 System Programming(Conducted in English), Seoul National University
-![csap_logo](/images/csap_logo.png)
+
+![](/images/csap_logo.png)
+
 <!-- csap logo?  -->
 
 
