@@ -25,9 +25,9 @@ My research focus is on using techniques from programming languages to make syst
 ## Teaching Assistant
 System Programming, Computer Science and Engineering, Seoul National University 
 
-<img src="/images/csap-logo.png"  width="450" height="370">
+<img src="/images/csap-logo.png"  width="200" height="150">
 
-<img src="/images/snu-logo.png"   width="370" height="370">
+<img src="/images/snu-logo.png"   width="150" height="150">
 
 <!--
 ![](/images/csap-logo.png)   ![](/images/snu-logo.png) 
