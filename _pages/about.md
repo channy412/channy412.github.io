@@ -37,7 +37,8 @@ System Programming, Dept of Computer Science and Engineering(M1522.000800), Seou
 
 ## Education
 Seoul National University  
-(Expected) Feb. 2021  
+Feb. 2021  
+Summa Cum Laude  
 • Bachelor of Science in Mathematical Sciences  
 • Bachelor of Science in Computer Science and Engineering  
 
