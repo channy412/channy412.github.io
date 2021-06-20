@@ -53,5 +53,5 @@ Summa Cum Laude
   
   
 Carnegie Melon University  
-Sep. 2021  ~ 
+Sep. 2021  ~    
 • MS in Electrical and Computer Engineering
