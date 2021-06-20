@@ -1,21 +1,22 @@
 ---
 title: About Chanhee Cho
-description: cksgml@snu.ac.kr
-subtitle: cksgml@snu.ac.kr
+description:   
+subtitle:  
 featured_image: /images/social.jpg
 ---
 
 
 ## Interests  
 
-My research interests are in programming languages and computer security. I aim to improve developer productivity and software quality through new software tools and languages.
-I am particularly interested in using techniques from programming languages to make systems more secure and reliable. Lately, I have been focusing on finding and repairing security bugs in software automatically.    
-
-
-*Programming Languages and Formal Methods, Computer Security, Software Engineering*    
+My research interests are in computer security and formal methods. I would like to focus on designing and building secure systems. In particular, I aim to automate the verification process of security properties. 
+.
+*Computer Security, Formal Verification, Automated Reasoning*
 
 
 <!--
+My research interests are in computer security and programming language. I aim to improve developer productivity and software quality through new software tools and languages.
+I am particularly interested in using techniques from programming languages to make systems more secure and reliable. Lately, I have been focusing on finding and repairing security bugs in software automatically.    
+*Programming Languages and Formal Methods, Computer Security, Software Engineering*    
 ## Projects
 -->
 
