@@ -9,8 +9,8 @@ featured_image: /images/social.jpg
 ## Interests  
 
 My research interests are in computer security and formal methods. I would like to focus on designing and building secure systems. In particular, I aim to automate the verification process of security properties.     
-.
-*Computer Security, Formal Verification, Automated Reasoning*    
+
+*Computer Security,  Formal Verification,  Automated Reasoning*    
 
 
 <!--
@@ -52,6 +52,6 @@ Summa Cum Laude
 
   
   
-Carnegie Melon University  
+Carnegie Mellon University  
 Sep. 2021  ~    
 • MS in Electrical and Computer Engineering
